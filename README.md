@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majo-pg. Dummie now, but a backend queen later 
+- 👋 Hi, I’m @majo-pg. Dummie now, but a queen backend later 
 - 👀 I’m interested in python, data bases, django and aerial silks 
 - 🌱 I’m currently learning django restframework and swimming
 - 💞️ I’m looking to collaborate on a project with a high positive social impact 
